@@ -1,0 +1,10 @@
+//Testing 
+GET http://localhost:5136
+
+###
+//Get Game Api
+GET http://localhost:5136/game
+
+###
+//Get game/id
+GET http://localhost:5136/game/2
